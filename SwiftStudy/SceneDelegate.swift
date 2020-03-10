@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SwiftStudy
 //
-//  Created by IB投信 on 3/10/20.
+//  Created by WENBIN.LI on 3/10/20.
 //  Copyright © 2020 webbleen. All rights reserved.
 //
 
