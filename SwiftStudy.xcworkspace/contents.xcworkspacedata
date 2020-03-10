@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Basic.playground">
+   </FileRef>
+   <FileRef
+      location = "group:UIView.playground">
+   </FileRef>
+   <FileRef
       location = "group:SwiftStudy.xcodeproj">
    </FileRef>
 </Workspace>
